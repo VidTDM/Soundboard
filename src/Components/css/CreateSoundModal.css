@@ -1,0 +1,40 @@
+.CreateSoundModal .modal-content {
+    background-color: #212529;
+    color: #fff;
+}
+
+.CreateSoundModal .modal-header, .modal-footer {
+    background-color: #212529;
+    color: #fff;
+}  
+.CreateSoundModal .btn-secondary {
+    color: #fff;
+    background-color: #6c757d;
+    margin-left: 1rem;
+    /* margin-top: 1rem !important; */
+}
+
+.CreateSoundModal .btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    /* margin-top: 1rem !important; */
+}
+
+.CreateSoundModal .modal-header {
+    border-bottom: 1px solid #6c757d;
+}
+
+/* .CreateSoundModal .modal-footer {
+    
+} */
+
+.submitHolder {
+    display: flex;
+    flex-direction: row-reverse;
+    /* justify-content: flex-end; */
+    border-top: 1px solid #6c757d;
+    padding-top: 1rem;
+}
+/* .submitHolder:first-child {
+    
+} */
