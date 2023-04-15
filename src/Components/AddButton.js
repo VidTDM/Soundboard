@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPlus } from "@fortawesome/free-solid-svg-icons";
 import CreateSoundModal from './CreateSoundModal';
 
-export default function AddButton() {
+export default function AddButton({ sounds, setSounds }) {
     const [show, setShow] = useState(false);
     function handleClose() {
         setInputText('')
