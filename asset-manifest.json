@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Soundboard/static/css/main.c02af924.css",
+    "main.js": "/Soundboard/static/js/main.a597b9c9.js",
+    "index.html": "/Soundboard/index.html",
+    "main.c02af924.css.map": "/Soundboard/static/css/main.c02af924.css.map",
+    "main.a597b9c9.js.map": "/Soundboard/static/js/main.a597b9c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c02af924.css",
+    "static/js/main.a597b9c9.js"
+  ]
+}
